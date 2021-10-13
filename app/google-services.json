@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "621992285332",
+    "project_id": "managingpeople-7a7ca",
+    "storage_bucket": "managingpeople-7a7ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621992285332:android:8658a8e3b593fc3cbd1081",
+        "android_client_info": {
+          "package_name": "com.example.managingpeople"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621992285332-im9lcb2057n1ootb9ls6t8iq4itsmtci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzO6NC96auxd8A4jWov8QupMFDoRFM1eY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621992285332-im9lcb2057n1ootb9ls6t8iq4itsmtci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
